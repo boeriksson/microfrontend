@@ -1,0 +1,19 @@
+{
+  "name": "abutton",
+  "version": "0.0.1",
+  "description": "React button comp",
+  "main": "dist/buttonComp.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --color"
+  },
+  "peer-dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.4.0",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0"
+  }
+}
